@@ -2,7 +2,7 @@
 
 This project demonstrates a stylish animated login page created using HTML, CSS, and JavaScript. The login page features input field animations, form validation.
 
-![Login Page](screenshot.jpg)
+![Login Page](screenshot.png)
 
 ## Features
 
